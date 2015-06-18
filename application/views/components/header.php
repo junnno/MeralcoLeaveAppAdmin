@@ -24,6 +24,6 @@
 <body>
 	
 			<div class="pure-u-lg-1-8">
-				<a href="<?php echo base_url('logout') ?>" class="pure-button button-logout">Log out</a>
+				<a href="<?php echo site_url('logout') ?>" class="pure-button button-logout">Log out</a>
 			</div>
 		
